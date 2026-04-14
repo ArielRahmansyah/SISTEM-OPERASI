@@ -1,0 +1,53 @@
+1.	Buka Google Chrome, cari dan masuk ke website resmi Oracle VM  VirtualBox. Klik menu Donwload kemudian Donwload VirtualBox. 
+2.	Klik Donwload.  
+3.	Pilih dan klik versi sesuai system operasi yang digunakan, Windows hosts.  
+4.	Menunggu proses Donwload sampai mencapai 100% untuk memastikan seluruh file terunduh secara lengkap dan tidak mengalami kerusakan  (corrupt).  
+5.	Mengakses halaman Donwload History dari VirtualBox untuk melihat daftar versi yang tersedia serta riwayat rilis sebelumnya.  
+6.	Pada halaman ini terdapat opsi next untuk melanjutkan proses installasi.  
+7.	Untuk melanjutkan installasi pilih opsi pertama yaitu “I accept the terms of the license agreement” kemudian tekan tombol next.  
+8.	Pada tahap Costum Setup, pilih fitur installasi default dan lokasi installasi VirtualBox versi 7.2.6 , lalu menekan tombol next untuk melanjutkan.  
+9.	Kemudian akan ada tampilan “peringatan pemutusan jaringan” selama installasi VirtualBox dan tekan opsi “ya”  
+10.	Kemudian mencentang atau memilih opsi yang ada pada layar dan menekan next.  
+11.	Pilih install untuk melanjutkan installasi.  
+12.	Menunggu proses installation  sampai mencapai 100% untuk memastikan seluruh file terunduh secara lengkap dan tidak mengalami kerusakan  (corrupt).  
+13.	Pilih finish untuk mengakhiri proses installasi.  
+14.	Selanjutnya membuka Chrome untuk mendownload ubuntu dengan mengetik “ubuntu”  
+15.	Klik ubuntu untuk melanjutkan proses download.  
+16.	Klik Download dan tunggu hingga hasil Download sampai 100%  
+17.	Langkah selanjutnya Adalah membuat mesin virtual baru dengan memilih menu new.  
+18.	Membuat file untuk memasangkan ubuntu pada VirtualBox.  
+19.	Mengubah base memory menjadi 4096 MB, lalu tekan finish.  
+20.	Mengubah video memory menjadi 128 MB, lalu tekan finish.  
+21.	Tekan tombol enter untuk langsung masuk ke terminal ubuntu.  
+22.	Menunggu penginstallan untuk menuju terminal.  
+23.	Menunggu proses installasi hingga selesai.  
+24.	Setelah selesai penginstallan akan masuk ke terminal ubuntu.  
+25.	Menunggu proses setingan terminal ubuntu.  
+26.	Memilih Bahasa yang akan digunakan di terminal ubuntu.  
+27.	Menekan tombol next pada halaman aksebilitas.
+28.	Menekan opsi next untuk tata letak papan ketik.  
+29.	Menekan opsi next untuk menyambung internet.
+30.	Menekan opsi pertama untuk memasang ubuntu lalu menekan tombol next.  
+31.	Menekan opsi pertama untuk memasang installasi interaktif lalu menekan tombol next .  
+32.	Menekan opsi pertama untuk memasang pilihan baku lalu menekan tombol next  
+33.	Menekan opsi pertama lalu menekan tombol next.  
+34.	Menekan opsi pertama lalu menekan tombol next.  
+35.	Membuat akun ubuntu.
+36.	Memilih tempat wilayah tinggal.  
+37.	Klik pasang un tuk melanjutkan proses pemasangan. 
+38.	Proses pemasangan ubuntu. 
+39.	Proses pemasangan ubuntu sudah berhasil, terminal ubuntu pun siap untuk digunakan. 
+
+E.	Navigasi Terminal Dan Perintah Perintah Dasar Linux 
+
+40.	Perintah ls digunakan untuk menampilkan da ar file dan folder yang ada di dalam direktori yang sedang aktif. 
+41.	Perintah ls -l digunakan untuk menampilkan isi folder beserta informasi detail file atau folder. 
+42.	Perintah ls -la digunakan untuk menampilkan semua file dan folder dalam direktori secara lengkap, termasuk file tersembunyi, serta informasi detail seperti hak akses, pemilik, ukuran, dan waktu pembuatan file. 
+43.	Perintah pwd digunakan untuk menampilkan lokasi atau alamat direktori yang sedang digunakan. 
+44.	perintah yang digunakan untuk berpindah atau masuk ke dalam direktori bernama Data dari direktori yang sedang aktif saat ini. 
+45.	Perintah mkdir digunakan untuk membuat folder atau direktori baru. 
+46.	Perintah touch digunakan untuk membuat file baru yang kosong. 
+47.	perintah yang digunakan untuk menghapus file atau direktori di dalam sistem Linux. 
+48.	perintah yang digunakan untuk menghapus folder beserta semua file dan subfolder  yang ada di dalamnya. 
+49.	perintah yang digunakan untuk memindahkan atau menggan nama file maupun folder. 
+50.	perintah yang digunakan untuk menampilkan isi dari sebuah file di terminal. 
